@@ -1,0 +1,21 @@
+{
+  "name": "SteinKirks",
+  "version": "4.0.4",
+  "description": "> Mens Fashion Store",
+  "repository": {
+    "type": "git",
+    "url": "https://www.steinkirks.com/"
+  },
+  "author": "HostDel Team",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecosystem:hostdel",
+    "ecosystem:cordova",
+    "cordova:template",
+    "hostdel:template"
+  ],
+  "bugs": {
+    "url": "https://www.steinkirks.com/"
+  },
+  "homepage": "https://www.steinkirks.com/"
+}
